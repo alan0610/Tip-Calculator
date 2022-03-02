@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./https://github.com/alan0610/Tip-Calculator/blob/main/images/Screenshot%202022-02-27%20150703.jpg)
 
 ### Links
 
