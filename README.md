@@ -1,4 +1,4 @@
-# Frontend Mentor - Tip calculator app solution
+# Frontend Mentor
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
